@@ -1,3 +1,4 @@
 # aiworkflow
 Ai workflow for NAAS Diagram
-![Workflow](aiworkflow\workflow-diagram.png)
+
+![Workflow](workflow-diagram.png)
